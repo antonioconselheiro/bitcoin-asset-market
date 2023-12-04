@@ -20,4 +20,5 @@ This allows the owner of the asset to sell parts of it to investors, for the amo
 ## Any idea?
 Any ideia? Know anything?
 Fell free to use the issues in this repository to talk and brainstorm about this, in your native language.
+
 [ISSUES SECTION](https://github.com/antonioconselheiro/bitcoin-asset-market/issues)
