@@ -16,3 +16,8 @@ Assets capitalized in bitcoin being segmentable with guarantees that the propert
 It becomes possible to start digital products by guaranteeing the technicians involved their share in the undertaking of that digital service.
 
 This allows the owner of the asset to sell parts of it to investors, for the amount that in one or two years the percentage of the asset would raise in bitcoin.
+
+## Any idea?
+Any ideia? Know anything?
+Fell free to use the issues in this repository to talk and brainstorm about this, in your native language.
+[ISSUES SECTION](https://github.com/antonioconselheiro/bitcoin-asset-market/issues)
