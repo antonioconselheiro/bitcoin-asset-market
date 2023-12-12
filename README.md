@@ -1,5 +1,7 @@
-> Apocalipse 18
-> ² E clamou fortemente com grande voz, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e coito de todo espírito imundo, e coito de toda ave imunda e odiável. ³ Porque todas as nações beberam do vinho da ira da sua fornicação, e os reis da terra fornicaram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias. ⁴ E ouvi outra voz do céu, que dizia: Sai dela, povo meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas. 
+> Números 11
+> ¹⁶ E disse o Senhor a Moisés: Ajunta-me setenta homens dos anciãos de Israel, que sabes serem anciãos do povo e seus oficiais; e os trarás perante a tenda da congregação, e ali estejam contigo.
+> ¹⁷ Então eu descerei e ali falarei contigo, e tirarei do espírito que está sobre ti, e o porei sobre eles; e contigo levarão a carga do povo, para que tu não a leves sozinho. 
+
 
 # Bitcoin Asset Market
 
